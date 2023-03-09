@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ncbi-submission"
+version = "0.1.0"
+description = "ncbi submission for pombe genome"
+authors = ["Manuel Lera Ramirez <manulera14@gmail.com>"]
+readme = "README.md"
+packages = [{include = "ncbi_submission"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^1.5.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,22 @@
+feature	replace_by	comment
+LTR_retrotransposon		not relevant
+nuclear_mt_pseudogene		not relevant, nuclear mitochondrial pseudo-gene
+TR_box		not relevant
+dg_repeat		not relevant, centromeric repeat
+gene_group		not relevant
+sncRNA	ncRNA
+snRNA	ncRNA
+snoRNA	ncRNA
+low_complexity_region		not relevant
+repeat_region		not relevant
+region		not relevant
+regional_centromere_inner_repeat_region		not relevant
+mating_type_region		not relevant
+lncRNA	ncRNA
+pseudogenic_transcript	transcript	pseudogenes are annotated using the pseudogene qualifier
+dh_repeat		not relevant, centromeric repeat
+regional_centromere_central_core		not relevant, centromeric repeat
+gap	gap	for now we leave it inside
+regional_centromere		not relevant
+intron	intron	removed automatically by the pipeline
+long_terminal_repeat		not relevant
